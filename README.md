@@ -1,9 +1,5 @@
-### Hi there 👋
-
-**zayinhd/zayinhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### About me
+- 👋 Hello world, you can call me Zayin
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning FullStack Development
 - 🤔 I’m looking for help in getting my first Intern job
