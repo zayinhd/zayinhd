@@ -4,7 +4,6 @@ Hi, you can call me Zayin and I'm pursuing Bsc. In CS. I’m currently learning 
 I’m looking to get my first Internship. Fun fact, I have interest in Hardware Engineering.
 
 # 📫How to reach me
-<br>
 
 * Gmail: zayinm300@gmail.com.
 
