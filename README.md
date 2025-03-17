@@ -17,10 +17,5 @@ OS, System Design, Java, DSA, been through it all.
 ## 📫How to reach me
 
 * Gmail: zayinm300@gmail.com.
-
-* Instagram: [zayinhd](https://www.instagram.com/zayinhd/)
-
-* Twitter: [zayinhd](https://twitter.com/zayinhd)
-
 * LinkedIn: [zayinmikhail](https://www.linkedin.com/in/zayin-mikhail-229400269/)
 
