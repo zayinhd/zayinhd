@@ -1,6 +1,6 @@
 # About me
 <br>
-Hi, you can call me Zayin and I'm currently pursuing Bsc. In CS. I’m undergoing the Software Engineering phase.
+Hi, you can call me Zayin. I’m undergoing the Software Engineering phase.
 OS, System Design, Java, DSA, been through it all.
 
 ## 🧰 Languages and Tools 
